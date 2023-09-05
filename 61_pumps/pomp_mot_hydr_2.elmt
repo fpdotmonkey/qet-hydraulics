@@ -1,0 +1,49 @@
+<definition type="element" hotspot_y="30" link_type="simple" height="60" version="0.90" hotspot_x="11" width="80">
+    <uuid uuid="{56842134-7134-4d70-984d-6463d7518a7d}"/>
+    <names>
+        <name lang="en">Pump hydraulic motor 2</name>
+        <name lang="nl">Pomp motor 2</name>
+        <name lang="pl">Pompa-silnik hydrauliczny o zmiennym kierunku przepływu, o zmiennej objętości roboczej z odprowadzeniem przecieków, sterowany siłą mięśni, o dwóch kierunkach obrotów</name>
+        <name lang="es">Motor de bomba hidráulica, dirección de flujo ajustable, volumen de trabajo variable con fuga, controlado por potencia muscular, giro bidireccional</name>
+        <name lang="it">Pompa idraulica motore 2</name>
+        <name lang="fr">Pompe-moteur hydraulique 2</name>
+        <name lang="ar">مضخّة محرّكة هيدروليكية 2</name>
+        <name lang="cs">Čerpadlo - vodní motor 2</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="-7" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-35.95" uuid="{20c0201e-4edf-4b1a-8d7c-3e41137e366e}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle x="15" diameter="30" y="-20" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <line y1="17" length1="1.5" end1="none" y2="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="45" x2="45" antialias="false"/>
+        <polygon y1="21" y2="15" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="-25" closed="false" x1="10" x2="10" x3="50" antialias="true"/>
+        <line y1="19" length1="1.5" end1="none" y2="20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="45" x2="45" antialias="false"/>
+        <polygon y1="-6" x4="26" y2="-6" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="-13" x1="26" y4="-6" x2="34" x3="30" antialias="true"/>
+        <line y1="20" length1="1.5" end1="none" y2="20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="38" x2="52" antialias="false"/>
+        <polygon y1="-19" x4="26" y2="-19" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="-13" x1="26" y4="-19" x2="34" x3="30" antialias="true"/>
+        <line y1="15" length1="1.5" end1="none" y2="20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="38" x2="38" antialias="false"/>
+        <polygon y1="9" x4="26" y2="9" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="2" x1="26" y4="9" x2="34" x3="30" antialias="true"/>
+        <line y1="15" length1="1.5" end1="none" y2="20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="52" x2="52" antialias="false"/>
+        <line y1="13" length1="1.5" end1="none" y2="25" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-5" x2="-5" antialias="false"/>
+        <polygon y1="-4" x4="26" y2="-4" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="2" x1="26" y4="-4" x2="34" x3="30" antialias="true"/>
+        <line y1="21" length1="1.5" end1="none" y2="21" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-5" x2="10" antialias="false"/>
+        <line y1="17" length1="1.5" end1="none" y2="17" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-5" x2="10" antialias="false"/>
+        <line y1="7" length1="1.5" end1="none" y2="6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="42" x2="41" antialias="true"/>
+        <polygon y1="12" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="9" closed="false" x1="45" x2="45" x3="44" antialias="true"/>
+        <polygon y1="-23" x4="45" y2="-20" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="-26" x1="45" y4="-23" x2="48" x3="51" antialias="true"/>
+        <polygon y1="6" x4="54" y2="3" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="9" x1="54" y4="6" x2="57" x3="60" antialias="true"/>
+        <polygon y1="-16" x4="54" y2="-13" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="-19" x1="54" y4="-16" x2="57" x3="60" antialias="true"/>
+        <arc x="52" start="-135" angle="-90" y="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" height="30" width="30" antialias="true"/>
+        <line y1="10" length1="1.5" end1="none" y2="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="30" x2="30" antialias="false"/>
+        <line y1="-4" length1="1.5" end1="none" y2="-4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="45" x2="60" antialias="false"/>
+        <line y1="-6" length1="1.5" end1="none" y2="-6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="45" x2="60" antialias="false"/>
+        <line y1="-24" length1="1.5" end1="none" y2="-20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="30" x2="30" antialias="false"/>
+        <terminal x="60" type="Generic" name="" y="-5" uuid="{450be06f-383b-4c1c-95f6-ed2510868e88}" orientation="e"/>
+        <terminal x="30" type="Generic" name="" y="14" uuid="{280d7d5a-46c4-4fd9-9e1f-566c0c993e70}" orientation="s"/>
+        <terminal x="30" type="Generic" name="" y="-24" uuid="{1047d455-b757-4869-ba76-bcc8577af8ff}" orientation="n"/>
+    </description>
+</definition>

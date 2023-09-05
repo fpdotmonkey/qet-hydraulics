@@ -1,0 +1,16 @@
+<definition type="element" hotspot_y="19" link_type="simple" height="50" version="0.90" hotspot_x="20" width="40">
+    <uuid uuid="{47de02ea-6a9e-43fd-91a6-0cfe1e73ab11}"/>
+    <names>
+        <name lang="en">2 ports normally closed</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-15" ry="0" y="-10" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <line y1="20" length1="1.5" end1="none" y2="-9" length2="1.5" style="line-style:normal;line-weight:normal;filling:black;color:black" end2="triangle" x1="-7" x2="-7" antialias="false"/>
+        <line y1="-10" length1="1.5" end1="none" y2="-14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="20" length1="1.5" end1="none" y2="24" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <terminal x="0" type="Generic" name="" y="24" uuid="{23e6e789-efb6-4a07-b85a-d70608c68068}" orientation="s"/>
+        <terminal x="0" type="Generic" name="" y="-14" uuid="{0216a21e-66a5-4300-9e9c-bf98979411f5}" orientation="n"/>
+    </description>
+</definition>

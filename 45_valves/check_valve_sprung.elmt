@@ -1,0 +1,22 @@
+<definition type="element" hotspot_y="14" link_type="simple" height="30" version="0.90" hotspot_x="29" width="50">
+    <uuid uuid="{8d49634b-9226-4d57-89a1-584c91ffee2e}"/>
+    <names>
+        <name lang="en">Check valve sprung</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon y1="1" x4="-15" x6="-11" y5="4" y2="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="4" y7="1" closed="false" x1="-21" y4="-4" x2="-19" x5="-13" x7="-9" x3="-17" antialias="true" y6="-4"/>
+        <dynamic_text keep_visual_rotation="false" x="8" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-28" uuid="{7c0d8113-d6f2-4d20-a8ac-523cfcf994be}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="0" length1="1.5" end1="none" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-21" x2="-25" antialias="false"/>
+        <line y1="-0.0791" length1="1.5" end1="none" y2="-9.3339" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="9.4773" x2="0.2224" antialias="false"/>
+        <line y1="0" length1="1.5" end1="none" y2="9.2548" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="9.5564" x2="0.3015" antialias="false"/>
+        <circle x="-9.3526" diameter="14.8787" y="-7.4393" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <line y1="0" length1="1.5" end1="none" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="9.7443" x2="14.4608" antialias="false"/>
+        <terminal x="-25" type="Generic" name="" y="0" uuid="{e192438e-c7c3-4e74-b408-34ff508e7abd}" orientation="w"/>
+        <terminal x="14.5052" type="Generic" name="" y="0" uuid="{ff7d97ea-90a4-45bb-b9ab-48efd93fca42}" orientation="e"/>
+    </description>
+</definition>

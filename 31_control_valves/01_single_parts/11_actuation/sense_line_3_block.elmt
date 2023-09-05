@@ -1,0 +1,11 @@
+<definition width="50" hotspot_x="15" hotspot_y="7" type="element" link_type="simple" version="0.90" height="20">
+    <uuid uuid="{cc592377-a9f7-44c6-a7bb-9c1341cbd8fe}"/>
+    <names>
+        <name lang="en">Sense line, 3 blocks</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x4="-10" y4="10" y5="10" closed="false" x1="30" x2="25" antialias="false" y2="-5" y3="-5" style="line-style:dashed;line-weight:normal;filling:none;color:black" x5="-5" y1="0" x3="-10"/>
+    </description>
+</definition>

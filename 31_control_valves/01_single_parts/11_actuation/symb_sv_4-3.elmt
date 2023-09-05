@@ -1,0 +1,44 @@
+<definition link_type="simple" type="element" hotspot_y="34" hotspot_x="40" height="60" width="100" version="0.90">
+    <uuid uuid="{fb2da16c-e446-454b-8868-7af9f1acc44d}"/>
+    <names>
+        <name lang="pl">Serwozawór 4/3</name>
+        <name lang="cs">Servoventil 4/3</name>
+        <name lang="en">Servaaovalve 4-3</name>
+        <name lang="ar">صمّام محكوم 4-3</name>
+        <name lang="it">Servo-valvola 4-3</name>
+        <name lang="fr">Symbolisation Servovalve 4-3</name>
+        <name lang="es">Servovalvula 4-3</name>
+        <name lang="nl">klep servo 4-3</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-57" y="-20.95" z="1" uuid="{86220def-3994-484a-a768-915116eff337}" Valignment="AlignTop" frame="false" text_from="ElementInfo" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="10" x2="20" length1="1.5" end2="none" x1="20" antialias="false" end1="none" length2="1.5" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="10" x2="0" length1="1.5" end2="none" x1="0" antialias="false" end1="none" length2="1.5" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-30" x2="0" length1="1.5" end2="none" x1="0" antialias="false" end1="none" length2="1.5" y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-30" x2="20" length1="1.5" end2="none" x1="20" antialias="false" end1="none" length2="1.5" y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="18" y="9" z="6" uuid="{eb8427d6-d200-43c1-8b55-2e29fa93e8b0}" Valignment="AlignTop" frame="false" text_from="UserText" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text>T</text>
+        </dynamic_text>
+        <dynamic_text rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-10" y="10" z="7" uuid="{b3a46921-5e75-4803-bb93-3ba185d08339}" Valignment="AlignTop" frame="false" text_from="UserText" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text>P</text>
+        </dynamic_text>
+        <dynamic_text rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="18" y="-35" z="8" uuid="{354773f6-1dd5-4109-9f24-76bf49df1b8f}" Valignment="AlignTop" frame="false" text_from="UserText" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text>B</text>
+        </dynamic_text>
+        <dynamic_text rotation="0" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-10" y="-35" z="9" uuid="{737aa9e6-7923-45b4-8da4-d9a70dc16609}" Valignment="AlignTop" frame="false" text_from="UserText" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text>A</text>
+        </dynamic_text>
+        <line y1="12" x2="55" length1="1.5" end2="none" x1="-35" antialias="false" end1="none" length2="1.5" y2="12" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="-21.68" x2="55" length1="1.5" end2="none" x1="-35" antialias="false" end1="none" length2="1.5" y2="-21.68" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal orientation="n" type="Generic" x="20" name="" y="-30" uuid="{1ce693d5-a97c-4e09-90b5-7cd47f6e93b4}"/>
+        <terminal orientation="s" type="Generic" x="20" name="" y="20" uuid="{315d4831-9112-464d-aab1-1f94f89eab85}"/>
+        <terminal orientation="n" type="Generic" x="0" name="" y="-30" uuid="{b818961e-f204-4019-8b20-dd49b39ca686}"/>
+        <terminal orientation="s" type="Generic" x="0" name="" y="20" uuid="{011e4145-371d-4a44-a85c-fcb7d7ee15fe}"/>
+    </description>
+</definition>

@@ -1,0 +1,17 @@
+<definition width="20" hotspot_x="7" hotspot_y="5" type="element" link_type="simple" version="0.90" height="20">
+    <uuid uuid="{a5b29924-945b-4942-9b58-1d139da0f36a}"/>
+    <names>
+        <name lang="en">Spring flow</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon x6="5" y6="1" x4="1" y4="1" y5="9" y7="6" closed="false" x1="-5" x2="-3" antialias="true" x7="7" y2="1" y3="9" style="line-style:normal;line-weight:normal;filling:none;color:black" x5="3" y1="6" x3="-1"/>
+        <dynamic_text z="2" Halignment="AlignLeft" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{fb60680a-5737-4a11-9609-c8e157f75a62}" rotation="0" text_from="ElementInfo" Valignment="AlignTop" text_width="-1" y="-14" x="-17" keep_visual_rotation="false" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal uuid="{39763764-4492-4da0-9f79-50f44a083735}" orientation="e" type="Generic" y="6" x="8" name=""/>
+    </description>
+</definition>

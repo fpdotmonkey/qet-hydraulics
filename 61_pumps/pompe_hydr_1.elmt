@@ -1,0 +1,34 @@
+<definition type="element" hotspot_y="29" link_type="simple" height="50" version="0.90" hotspot_x="11" width="60">
+    <uuid uuid="{10cf0903-c7e7-4e5f-add6-0afb47c2d483}"/>
+    <names>
+        <name lang="en">Hydraulic pump 1</name>
+        <name lang="nl">Pomp 1</name>
+        <name lang="el">Υδραυλική αντλία 1</name>
+        <name lang="pl">Pompa hydrauliczna o jednym kierunku przepływu, o stałej objętości i o jednym kierunku obrotów</name>
+        <name lang="es">Bomba hidráulica, giro unidireccional</name>
+        <name lang="it">Pompa idraulica 1</name>
+        <name lang="fr">Pompe hydraulique 1</name>
+        <name lang="ar">مضخّة هيدروليكية 1</name>
+        <name lang="cs">Vodní čerpadlo 1</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="-17" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-35.95" uuid="{f03c24e3-7843-4053-b126-a3366ad14bcc}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle x="-5" diameter="30" y="-20" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <polygon y1="-12" x4="6" y2="-12" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="-20" x1="6" y4="-12" x2="14" x3="10" antialias="true"/>
+        <polygon y1="-16" x4="34" y2="-13" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="-19" x1="34" y4="-16" x2="37" x3="40" antialias="true"/>
+        <arc x="32" start="-135" angle="-90" y="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" height="30" width="30" antialias="true"/>
+        <line y1="10" length1="1.5" end1="none" y2="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="10" x2="10" antialias="false"/>
+        <line y1="-4" length1="1.5" end1="none" y2="-4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
+        <line y1="-6" length1="1.5" end1="none" y2="-6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
+        <line y1="-24" length1="1.5" end1="none" y2="-20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="10" x2="10" antialias="false"/>
+        <terminal x="40" type="Generic" name="" y="-5" uuid="{93ae94d7-4478-49d8-9a1e-9465b4c666e6}" orientation="e"/>
+        <terminal x="10" type="Generic" name="" y="14" uuid="{bcf697ed-62aa-46e6-b2f9-b23551e735ca}" orientation="s"/>
+        <terminal x="10" type="Generic" name="" y="-24" uuid="{28ac5f46-843d-4f87-985e-d2ae55217dec}" orientation="n"/>
+    </description>
+</definition>

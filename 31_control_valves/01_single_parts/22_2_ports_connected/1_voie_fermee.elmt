@@ -1,0 +1,35 @@
+<definition type="element" hotspot_y="19" link_type="simple" height="50" version="0.90" hotspot_x="20" width="40">
+    <uuid uuid="{5b64e9df-b769-4eb7-98d4-96aca4266dfa}"/>
+    <names>
+        <name lang="en">2 ports close</name>
+        <name lang="nl">2 gesloten</name>
+        <name lang="pl">2 drogi, zamknięty</name>
+        <name lang="es">2 puertos cerrados</name>
+        <name lang="it">2 porte chiuse</name>
+        <name lang="fr">2 orifices obtures</name>
+        <name lang="ar">فوهات مفصولة 2</name>
+        <name lang="cs">2 otvory uzavřené</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="-10" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="-24" uuid="{8ab447d4-9d9d-40d2-8862-e887bf7459e7}" Valignment="AlignTop" z="1">
+            <text>A</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="-32" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-10.95" uuid="{ba78a6e3-f97d-42ac-bcc2-67db15d355e7}" Valignment="AlignTop" z="2">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-15" ry="0" y="-10" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <line y1="-5" length1="1.5" end1="none" y2="-14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" x="-10" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="17" uuid="{b626a765-ea30-41df-b138-4d68c02452a3}" Valignment="AlignTop" z="5">
+            <text>P</text>
+        </dynamic_text>
+        <line y1="24" length1="1.5" end1="none" y2="15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="15" length1="1.5" end1="none" y2="15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-2" x2="2" antialias="false"/>
+        <line y1="-4.95" length1="1.5" end1="none" y2="-4.95" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-1.95" x2="2.05" antialias="false"/>
+        <terminal x="0" type="Generic" name="" y="24" uuid="{16c987b7-7634-4ce8-8e59-4a0b7d97f124}" orientation="s"/>
+        <terminal x="0" type="Generic" name="" y="-14" uuid="{7e1ec39a-9209-4ce7-b142-6f66762400e0}" orientation="n"/>
+    </description>
+</definition>

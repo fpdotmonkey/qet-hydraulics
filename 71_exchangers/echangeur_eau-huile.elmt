@@ -1,0 +1,32 @@
+<definition type="element" hotspot_y="35" link_type="simple" height="70" version="0.90" hotspot_x="39" width="80">
+    <uuid uuid="{1c916bf3-413b-4c3f-ae42-245f11176d40}"/>
+    <names>
+        <name lang="en">Water oil exchanger</name>
+        <name lang="nl">Water Olie warmtewisselaar</name>
+        <name lang="el">Εναλλάκτης νερού λαδιού</name>
+        <name lang="pl">Wodno-olejowy wymiennik ciepła</name>
+        <name lang="es">Intercambiador de calor agua-aceite</name>
+        <name lang="it">Scambiatore acqua/olio</name>
+        <name lang="fr">Echangeur Eau-Huile</name>
+        <name lang="ar">مُبادل ماء - زيت</name>
+        <name lang="cs">Výměník voda olej</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon y1="-30" x4="30" y5="-30" y2="0" style="line-style:normal;line-weight:normal;filling:white;color:black" y3="30" x1="0" y4="0" x2="-30" x5="0" x3="0" antialias="true"/>
+        <dynamic_text keep_visual_rotation="false" x="-27" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-55.95" uuid="{7f861c96-0c09-4f99-8609-c228d884afa9}" Valignment="AlignTop" z="2">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="30.0652" length1="1.5" end1="none" y2="30.0652" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0.8679" x2="25.6179" antialias="false"/>
+        <line y1="-29.9817" length1="1.5" end1="none" y2="-29.9817" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-0.5185" x2="-25.1279" antialias="false"/>
+        <polygon y1="-30.019" x4="-0.4152" x6="-1.8984" y5="-29.9004" y2="-30.9089" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="-29.0698" closed="false" x1="-0.4152" y4="-29.9004" x2="-6.7038" x5="-1.8984" x3="-6.7038" antialias="true" y6="-29.9004"/>
+        <polygon y1="30.0784" x4="0.4746" y5="30.197" y2="29.1292" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="30.9089" closed="false" x1="0.4152" y4="30.197" x2="6.5852" x5="0.4746" x3="6.5852" antialias="true"/>
+        <line y1="0" length1="1.5" end1="none" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="34" x2="29.6719" antialias="false"/>
+        <line y1="0" length1="1.5" end1="none" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-34" x2="-30.6562" antialias="false"/>
+        <terminal x="34" type="Generic" name="" y="0" uuid="{a066714f-e54f-4b12-b338-4edeb1a61f0c}" orientation="e"/>
+        <terminal x="-34" type="Generic" name="" y="0" uuid="{87ddd81c-fa33-4cf7-b99a-b5442681c394}" orientation="w"/>
+    </description>
+</definition>

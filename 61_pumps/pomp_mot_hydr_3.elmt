@@ -1,0 +1,35 @@
+<definition type="element" hotspot_y="29" link_type="simple" height="50" version="0.90" hotspot_x="11" width="60">
+    <uuid uuid="{6bc99098-f12c-4c1b-900e-7f641f70012e}"/>
+    <names>
+        <name lang="en">Pump hydraulic motor 3</name>
+        <name lang="nl">Pomp motor 3</name>
+        <name lang="pl">Pompa-silnik hydrauliczny o jednym kierunku przepływu, o stałej objętości roboczej i o jednym kierunku obrotów</name>
+        <name lang="es">Motor de bomba hidráulica, flujo unidireccional, flujo constante, giro unidirecional</name>
+        <name lang="it">Pompa idraulica motore 3</name>
+        <name lang="fr">Pompe-moteur hydraulique 3</name>
+        <name lang="ar">مضخّة محرّكة هيدروليكية 3</name>
+        <name lang="cs">Čerpadlo - vodní motor 3</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle x="-5" diameter="30" y="-20" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <dynamic_text keep_visual_rotation="false" x="-17" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-40.95" uuid="{58778d42-3c14-4684-a403-bbdcbb9b1f5d}" Valignment="AlignTop" z="2">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y1="-12" x4="6" y2="-12" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="-20" x1="6" y4="-12" x2="14" x3="10" antialias="true"/>
+        <polygon y1="9" x4="6" y2="9" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="2" x1="6" y4="9" x2="14" x3="10" antialias="true"/>
+        <polygon y1="6" x4="34" y2="3" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="9" x1="34" y4="6" x2="37" x3="40" antialias="true"/>
+        <polygon y1="-16" x4="34" y2="-13" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="-19" x1="34" y4="-16" x2="37" x3="40" antialias="true"/>
+        <arc x="32" start="-135" angle="-90" y="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" height="30" width="30" antialias="true"/>
+        <line y1="10" length1="1.5" end1="none" y2="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="10" x2="10" antialias="false"/>
+        <line y1="-4" length1="1.5" end1="none" y2="-4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
+        <line y1="-6" length1="1.5" end1="none" y2="-6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
+        <line y1="-24" length1="1.5" end1="none" y2="-20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="10" x2="10" antialias="false"/>
+        <terminal x="40" type="Generic" name="" y="-5" uuid="{8dc4e485-dfda-4149-84fa-17db801550bb}" orientation="e"/>
+        <terminal x="10" type="Generic" name="" y="14" uuid="{15d06af6-f28c-4f9d-ab5f-2c8f4bdc57af}" orientation="s"/>
+        <terminal x="10" type="Generic" name="" y="-24" uuid="{3a8cf349-90b7-4291-8de3-254a500c775e}" orientation="n"/>
+    </description>
+</definition>

@@ -1,0 +1,26 @@
+<definition type="element" hotspot_y="25" link_type="simple" height="40" version="0.90" hotspot_x="10" width="40">
+    <uuid uuid="{6b9d9caa-52b0-4109-8547-4aa76410e664}"/>
+    <names>
+        <name lang="en">3 holes A->T</name>
+        <name lang="nl">A -> T</name>
+        <name lang="pl">3 otwory A -> T</name>
+        <name lang="it">3 fori A -> T</name>
+        <name lang="fr">3 orifices A->T</name>
+        <name lang="ar">مسارات A -> T 3</name>
+        <name lang="cs">3 otvory A -> T</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="-19" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-12.95" uuid="{88c2c5f4-7a30-4698-a12e-a361c24b1d5c}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-5" ry="0" y="-20" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <line y1="5" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-2" x2="2" antialias="false"/>
+        <line y1="10" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="-20" length1="1.5" end1="none" y2="6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="17" antialias="true"/>
+        <polygon y1="10" x4="20" y2="6" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="4" x1="20" y4="10" x2="15" x3="18" antialias="true"/>
+    </description>
+</definition>

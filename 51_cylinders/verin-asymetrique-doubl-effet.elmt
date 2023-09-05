@@ -1,0 +1,30 @@
+<definition type="element" hotspot_y="17" link_type="simple" height="40" version="0.90" hotspot_x="38" width="80">
+    <uuid uuid="{73b79d1f-5dfd-4924-83bf-d013bcb3408b}"/>
+    <names>
+        <name lang="en">Double acting cylinders right</name>
+        <name lang="nl">Cilinder dubbelwerkend</name>
+        <name lang="el">Έμβολο διπλής ενεργείας, δεξιά</name>
+        <name lang="pl">Siłownik asymetryczny podwójnego działania</name>
+        <name lang="es">Piston derecho de accionamiento doble</name>
+        <name lang="it">Pistone a doppia azione Dx</name>
+        <name lang="fr">Vérin assymétrique double effet tige orientée à droite</name>
+        <name lang="ar">اسطوانة غير متماثلة مزدوج الفعل مع قضيب مُوجّه لليمين</name>
+        <name lang="cs">Dvojčinný nesouměrný válec, osa natočená vpravo</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-35" ry="0" y="-10" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0" width="60" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" x="-27" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-31" uuid="{1c0502e2-47dd-48f8-9a56-e6b9a2a91a76}" Valignment="AlignTop" z="2">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="10" length1="1.5" end1="none" y2="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-30" x2="-30" antialias="false"/>
+        <line y1="10" length1="1.5" end1="none" y2="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="20" x2="20" antialias="false"/>
+        <rect x="-17" ry="0" y="-2.95" style="line-style:normal;line-weight:normal;filling:white;color:black" height="6" rx="0" width="55" antialias="false"/>
+        <rect x="-26" ry="0" y="-10" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0" width="9" antialias="false"/>
+        <terminal x="-30" type="Generic" name="" y="14" uuid="{826f994f-35ff-43e9-8d81-b654bc4df159}" orientation="s"/>
+        <terminal x="20" type="Generic" name="" y="14" uuid="{2af6b3fc-2163-4629-bbf3-a54454d52b76}" orientation="s"/>
+    </description>
+</definition>

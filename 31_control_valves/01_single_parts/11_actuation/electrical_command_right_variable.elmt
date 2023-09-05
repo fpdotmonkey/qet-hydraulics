@@ -1,0 +1,17 @@
+<definition type="element" hotspot_y="10" link_type="simple" height="30" version="0.90" hotspot_x="20" width="30">
+    <uuid uuid="{2c45d613-74bb-4068-ad02-544715104622}"/>
+    <names>
+        <name lang="en">Electrical command right variable</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="-32" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-5.95" uuid="{8aa431bd-7716-4483-9bd0-e10964d894ff}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-15" ry="0" y="0" style="line-style:normal;line-weight:normal;filling:white;color:black" height="10" rx="0" width="20" antialias="false"/>
+        <line y1="0" length1="1.5" end1="none" y2="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-10" x2="0" antialias="true"/>
+        <line y1="15" length1="1.5" end1="none" y2="-5" length2="1.5" style="line-style:normal;line-weight:normal;filling:black;color:black" end2="triangle" x1="-10" x2="0" antialias="false"/>
+    </description>
+</definition>

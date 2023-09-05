@@ -1,0 +1,18 @@
+<definition type="element" hotspot_y="20" link_type="simple" height="40" version="0.90" hotspot_x="22" width="50">
+    <uuid uuid="{b9ae1eb2-8c29-42f5-8532-cc7477bb0201}"/>
+    <names>
+        <name lang="en">Flow to CAN</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-15" ry="0" y="-15" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <line y1="15" length1="1.5" end1="none" y2="-15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="15" x2="-15" antialias="false"/>
+        <text x="4" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="-4" text="Q" color="#000000"/>
+        <text x="-12" font="Sans Serif,5,-1,5,50,0,0,0,0,0" rotation="0" y="11" text="CAN" color="#000000"/>
+        <line y1="-10" length1="1.5" end1="none" y2="-10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="15" x2="19" antialias="false"/>
+        <line y1="10" length1="1.5" end1="none" y2="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="15" x2="19" antialias="false"/>
+        <terminal x="19" type="Generic" name="" y="-10" uuid="{331fe270-edf6-4c71-968b-a22047dd09a6}" orientation="e"/>
+        <terminal x="19" type="Generic" name="" y="10" uuid="{77065832-57bc-42d6-9b3e-b70b4e48f3b7}" orientation="e"/>
+    </description>
+</definition>

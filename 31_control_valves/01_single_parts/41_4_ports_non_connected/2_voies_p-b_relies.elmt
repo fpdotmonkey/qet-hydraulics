@@ -1,0 +1,28 @@
+<definition type="element" hotspot_y="15" link_type="simple" height="40" version="0.90" hotspot_x="20" width="40">
+    <uuid uuid="{df5cffda-b771-4e3b-8980-1837a39d5d40}"/>
+    <names>
+        <name lang="en">4 ports - P -> B connected</name>
+        <name lang="nl">4 P -> B</name>
+        <name lang="pl">4 drogi - P -> B połączone</name>
+        <name lang="it">4 porte - P -> B connesse</name>
+        <name lang="fr">4 voies - P -> B relies</name>
+        <name lang="ar">مسارات -P  -> B  مُتصلة 2</name>
+        <name lang="cs">4 cesty - P -> B spojené</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-15" ry="0" y="-10" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" x="-31" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-8.95" uuid="{91a4b6f3-7f2a-4f0b-b302-32bfa1370505}" Valignment="AlignTop" z="2">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="-10" length1="1.5" end1="none" y2="-5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-10" x2="-10" antialias="false"/>
+        <line y1="20.1" length1="1.5" end1="none" y2="-6.9" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-10.15" x2="7.85" antialias="true"/>
+        <polygon y1="-9.9" x4="9.85" y2="-5.9" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="-3.9" x1="9.85" y4="-9.9" x2="4.85" x3="7.85" antialias="true"/>
+        <line y1="14.95" length1="1.5" end1="none" y2="19.95" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="9.925" x2="9.925" antialias="false"/>
+        <line y1="14.95" length1="1.5" end1="none" y2="14.95" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="7.925" x2="11.925" antialias="false"/>
+        <line y1="-5" length1="1.5" end1="none" y2="-5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-12.025" x2="-8.025" antialias="false"/>
+    </description>
+</definition>

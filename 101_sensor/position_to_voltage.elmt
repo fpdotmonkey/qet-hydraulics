@@ -1,0 +1,14 @@
+<definition type="element" hotspot_y="15" link_type="simple" height="30" version="0.90" hotspot_x="10" width="30">
+    <uuid uuid="{08acccd6-6a11-49cd-bd6b-2501f89cdbe6}"/>
+    <names>
+        <name lang="en">Position to voltage</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-5" ry="0" y="-10" style="line-style:normal;line-weight:normal;filling:white;color:black" height="20" rx="0" width="20" antialias="false"/>
+        <line y1="10" length1="1.5" end1="none" y2="-10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-5" x2="15" antialias="false"/>
+        <text x="-3" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="0" text="X" color="#000000"/>
+        <text x="7" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="7" text="U" color="#000000"/>
+    </description>
+</definition>

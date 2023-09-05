@@ -1,0 +1,16 @@
+<definition width="50" hotspot_x="28" hotspot_y="20" type="element" link_type="simple" version="0.90" height="40">
+    <uuid uuid="{41594ae2-56d7-4150-aecd-c3122d1a7c0c}"/>
+    <names>
+        <name lang="en">Temperature to voltage</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="30" ry="0" rx="0" antialias="false" y="-15" x="-15" height="30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end2="none" x1="-15" x2="15" antialias="false" length1="1.5" y2="-15" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="15"/>
+        <text text="T" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="-2" x="-11"/>
+        <text text="U" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="11" x="3"/>
+        <line length2="1.5" end2="none" x1="-20" x2="-15" antialias="false" length1="1.5" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0"/>
+        <terminal uuid="{2c4e6c63-43da-4ff6-b9e4-7e8aaa390942}" orientation="w" type="Generic" y="0" x="-20" name=""/>
+    </description>
+</definition>

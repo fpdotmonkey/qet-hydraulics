@@ -1,0 +1,32 @@
+<definition type="element" hotspot_y="29" link_type="simple" height="50" version="0.90" hotspot_x="11" width="60">
+    <uuid uuid="{2ac3ae14-7fac-41f8-9848-34ca66ee232b}"/>
+    <names>
+        <name lang="en">Hydraulic pump 2</name>
+        <name lang="nl">Pomp 2</name>
+        <name lang="el">Υδραυλική αντλία 2</name>
+        <name lang="pl">Pompa hydrauliczna</name>
+        <name lang="es">Bomba hidráulica</name>
+        <name lang="it">Pompa idraulica 2</name>
+        <name lang="fr">Pompe hydraulique 2</name>
+        <name lang="ar">مضخّة هيدروليكية 2</name>
+        <name lang="cs">Vodní čerpadlo 2</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle x="-5" diameter="30" y="-20" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <polygon y1="-12" x4="6" y2="-12" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="-20" x1="6" y4="-12" x2="14" x3="10" antialias="true"/>
+        <dynamic_text keep_visual_rotation="false" x="-17" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-40.95" uuid="{4302357e-ffeb-4773-95e0-9c1a9e91abfa}" Valignment="AlignTop" z="3">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="10" length1="1.5" end1="none" y2="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="10" x2="10" antialias="false"/>
+        <line y1="-4" length1="1.5" end1="none" y2="-4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
+        <line y1="-6" length1="1.5" end1="none" y2="-6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
+        <line y1="-24" length1="1.5" end1="none" y2="-20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="10" x2="10" antialias="false"/>
+        <terminal x="40" type="Generic" name="" y="-5" uuid="{e037b47c-8b4f-4247-812e-276ba39c4461}" orientation="e"/>
+        <terminal x="10" type="Generic" name="" y="-24" uuid="{4c120418-685e-4320-857a-ff2f28c53748}" orientation="n"/>
+        <terminal x="10" type="Generic" name="" y="14" uuid="{8c595582-25bc-48c3-91f7-ba99f22c5eea}" orientation="s"/>
+    </description>
+</definition>

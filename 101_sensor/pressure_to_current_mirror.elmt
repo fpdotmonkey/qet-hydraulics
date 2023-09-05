@@ -1,0 +1,16 @@
+<definition type="element" hotspot_y="20" link_type="simple" height="40" version="0.90" hotspot_x="22" width="50">
+    <uuid uuid="{9877b669-fecd-4006-8875-3835b008ad7b}"/>
+    <names>
+        <name lang="en">Pressure to current, mirrored</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-15" ry="0" y="-15" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <line y1="-15" length1="1.5" end1="none" y2="15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-15" x2="15" antialias="false"/>
+        <text x="4" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" y="-2" text="P" color="#000000"/>
+        <text x="-10" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" y="10" text="I" color="#000000"/>
+        <line y1="0" length1="1.5" end1="none" y2="0" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="15" x2="19" antialias="false"/>
+        <terminal x="19" type="Generic" name="" y="0" uuid="{b0e6706e-3696-468e-8033-9998dc4b2e26}" orientation="e"/>
+    </description>
+</definition>

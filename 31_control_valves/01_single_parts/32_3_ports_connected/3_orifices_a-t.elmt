@@ -1,0 +1,40 @@
+<definition type="element" hotspot_y="29" link_type="simple" height="50" version="0.90" hotspot_x="10" width="40">
+    <uuid uuid="{2bb07a36-8028-45f7-98a7-cf4e78f2474d}"/>
+    <names>
+        <name lang="en">3 holes A->T</name>
+        <name lang="nl">A -> T</name>
+        <name lang="pl">3 otwory A -> T</name>
+        <name lang="it">3 fori A -> T</name>
+        <name lang="fr">3 orifices A->T</name>
+        <name lang="ar">مسارات A -> T 3</name>
+        <name lang="cs">3 otvory A -> T</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="-22" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-15.95" uuid="{ac378eea-e7f8-4423-ad8b-0ac266c4fa4c}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-5" ry="0" y="-20" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <line y1="14" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="14" length1="1.5" end1="none" y2="10" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="20" x2="20" antialias="false"/>
+        <line y1="5" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-2" x2="2" antialias="false"/>
+        <line y1="-24" length1="1.5" end1="none" y2="-20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <polygon y1="9.85" x4="19.85" y2="5.85" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="3.85" x1="19.85" y4="9.85" x2="14.85" x3="17.85" antialias="true"/>
+        <line y1="-20.15" length1="1.5" end1="none" y2="5.85" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-0.15" x2="16.85" antialias="true"/>
+        <dynamic_text keep_visual_rotation="false" x="-10" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="-33" uuid="{8e69d8f0-8ab3-4ca7-910b-ceca3161ff95}" Valignment="AlignTop" z="9">
+            <text>A</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="17" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="6" uuid="{0d0b5fc3-5b75-4d6f-90a2-36a7d8a51c21}" Valignment="AlignTop" z="10">
+            <text>T</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="-9" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="6" uuid="{27ec9718-eace-4ea6-943a-caea01cceedd}" Valignment="AlignTop" z="11">
+            <text>P</text>
+        </dynamic_text>
+        <terminal x="0" type="Generic" name="" y="-24" uuid="{5237ad00-3daa-4d23-8075-9839594f5926}" orientation="n"/>
+        <terminal x="0" type="Generic" name="" y="14" uuid="{d73bf6ba-dc67-4f2e-914e-a3bc9633a7ed}" orientation="s"/>
+        <terminal x="20" type="Generic" name="" y="14" uuid="{9767a23b-ac27-43da-8133-18acb30f18aa}" orientation="s"/>
+    </description>
+</definition>

@@ -1,0 +1,14 @@
+<definition type="element" hotspot_y="7" link_type="simple" height="20" version="0.90" hotspot_x="7" width="20">
+    <uuid uuid="{aede0c7f-3ad5-48be-bc81-5ed559eeb8bb}"/>
+    <names>
+        <name lang="en">Triangle thing</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-5" ry="0" y="-5" style="line-style:normal;line-weight:normal;filling:white;color:black" height="15" rx="0" width="15" antialias="false"/>
+        <polygon y1="1" y2="-1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="0" closed="false" x1="6" x2="6" x3="3" antialias="false"/>
+        <polygon y1="4" y2="6.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="5" closed="false" x1="6" x2="6" x3="3" antialias="false"/>
+        <polygon y1="1" y2="2.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="4" closed="false" x1="1" x2="-2" x3="1" antialias="false"/>
+    </description>
+</definition>

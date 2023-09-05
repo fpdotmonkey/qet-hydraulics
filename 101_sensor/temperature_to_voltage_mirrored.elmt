@@ -1,0 +1,16 @@
+<definition width="50" hotspot_x="21" hotspot_y="20" type="element" link_type="simple" version="0.90" height="40">
+    <uuid uuid="{6fae3c6f-0902-4035-9cb9-566c0c43f46d}"/>
+    <names>
+        <name lang="en">Temperature to voltage, mirrored</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="30" ry="0" rx="0" antialias="false" y="-15" x="-15" height="30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end2="none" x1="-15" x2="15" antialias="false" length1="1.5" y2="15" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-15"/>
+        <text text="U" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="10" x="-10"/>
+        <text text="T" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="-2" x="4"/>
+        <line length2="1.5" end2="none" x1="15" x2="20" antialias="false" length1="1.5" y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0"/>
+        <terminal uuid="{44467360-eca4-42f0-92df-d55224e4c8a7}" orientation="e" type="Generic" y="0" x="20" name=""/>
+    </description>
+</definition>

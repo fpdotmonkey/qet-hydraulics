@@ -1,0 +1,31 @@
+<definition type="element" hotspot_y="25" link_type="simple" height="50" version="0.90" hotspot_x="38" width="60">
+    <uuid uuid="{f028e497-6630-4cad-a69c-fe9f3cee01ea}"/>
+    <names>
+        <name lang="en">Fixed Displacement hydraulic pump</name>
+        <name lang="nl">Pomp vast</name>
+        <name lang="pl">Pompa o stałej wydajności i jednym kierunku tłoczenia</name>
+        <name lang="es">Bomba hidráulica de desplazamiento fijo</name>
+        <name lang="it">Pompa a portata fissa</name>
+        <name lang="fr">Pompe debit fixe</name>
+        <name lang="ar">مضخّة بتدفق ثابت</name>
+        <name lang="cs">Vodní čerpadlo se stálým výkonem</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="24" font="Sans Serif,8,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-24.6667" uuid="{fc1c0417-a8e2-41ea-8d1c-c6a321bc0839}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="1" length1="1.5" end1="none" y2="1" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-30" x2="-15" antialias="false"/>
+        <line y1="-1" length1="1.5" end1="none" y2="-1" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-30" x2="-15" antialias="false"/>
+        <circle x="-15" diameter="30" y="-15" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <polygon y1="-15" y2="-10" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="-10" x1="0" x2="-3" x3="3" antialias="true"/>
+        <line y1="15" length1="1.5" end1="none" y2="19.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="-15.4" length1="1.5" end1="none" y2="-19.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <terminal x="0" type="Generic" name="" y="19.4" uuid="{f3e6f46a-2cee-4773-ae58-d716e4fb54de}" orientation="s"/>
+        <terminal x="-30" type="Generic" name="" y="0" uuid="{5a25dd72-e7d4-4966-9d67-ec09ce04d116}" orientation="w"/>
+        <terminal x="0" type="Generic" name="" y="-19.4" uuid="{b939fff1-6bc0-4fe0-9491-116643144275}" orientation="n"/>
+    </description>
+</definition>

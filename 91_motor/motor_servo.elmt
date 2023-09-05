@@ -1,0 +1,19 @@
+<definition type="element" hotspot_y="24" link_type="simple" height="40" version="0.90" hotspot_x="11" width="60">
+    <uuid uuid="{5ab8a0c0-76a3-4d33-ab85-1cf8272ddb7d}"/>
+    <names>
+        <name lang="en">Servo Motor</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle x="-5" diameter="30" y="-21" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <line y1="-21.4668" length1="1.5" end1="none" y2="-19.252" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25.414" x2="22.039" antialias="false"/>
+        <line y1="-4" length1="1.5" end1="none" y2="-4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
+        <line y1="-21.3613" length1="1.5" end1="none" y2="-17.8809" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25.414" x2="23.1992" antialias="false"/>
+        <line y1="-6" length1="1.5" end1="none" y2="-6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
+        <line y1="9.4668" length1="1.5" end1="none" y2="-20.5332" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-5.41405" x2="24.586" antialias="false"/>
+        <text x="5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" y="-1" text="M" color="#000000"/>
+        <terminal x="40" type="Generic" name="" y="-5" uuid="{dd8d6f47-7db5-49ff-872b-35b564ce6515}" orientation="e"/>
+        <terminal x="10" type="Generic" name="" y="9" uuid="{e7f37af3-1aa3-4310-b377-78a7c52181c6}" orientation="s"/>
+    </description>
+</definition>

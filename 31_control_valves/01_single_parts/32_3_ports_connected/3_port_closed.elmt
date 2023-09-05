@@ -1,0 +1,34 @@
+<definition type="element" hotspot_y="29" link_type="simple" height="50" version="0.90" hotspot_x="10" width="40">
+    <uuid uuid="{1836df9e-95d2-42bf-b51b-ab040e95081e}"/>
+    <names>
+        <name lang="en">3 holes - closed</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="-22" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-15.95" uuid="{7c5b420d-768e-49f8-b673-f784b0c73f67}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-5" ry="0" y="-20" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" x="-10" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="-34" uuid="{1b1483bd-def0-4eb8-b683-d1f9416970c5}" Valignment="AlignTop" z="3">
+            <text>A</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="18" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="7" uuid="{b0712988-a23f-41d4-9990-36adaa1b5f09}" Valignment="AlignTop" z="4">
+            <text>T</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="-10" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="7" uuid="{38f51892-33c4-448f-b8ee-6aeb28c24c4b}" Valignment="AlignTop" z="5">
+            <text>P</text>
+        </dynamic_text>
+        <line y1="-24" length1="1.5" end1="none" y2="-15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="1.77636e-15" antialias="false"/>
+        <line y1="14" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="20" x2="20" antialias="false"/>
+        <line y1="14" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="5" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="18" x2="22" antialias="false"/>
+        <line y1="-15" length1="1.5" end1="none" y2="-15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="2" x2="-2" antialias="false"/>
+        <line y1="5" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-2" x2="2" antialias="false"/>
+        <terminal x="0" type="Generic" name="" y="-24" uuid="{8feeb500-96b6-423a-9b12-a6aaa349ff97}" orientation="n"/>
+        <terminal x="20" type="Generic" name="" y="14" uuid="{566e5245-a70c-46ee-862e-d1d6629fc881}" orientation="s"/>
+        <terminal x="0" type="Generic" name="" y="14" uuid="{51ecd3a4-f3f9-498b-a00c-c5b56e03ce3f}" orientation="s"/>
+    </description>
+</definition>

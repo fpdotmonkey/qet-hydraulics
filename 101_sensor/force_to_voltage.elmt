@@ -1,0 +1,14 @@
+<definition width="30" hotspot_x="15" hotspot_y="15" type="element" link_type="simple" version="0.90" height="30">
+    <uuid uuid="{7d17066d-758c-4290-8735-b319c4ff5da1}"/>
+    <names>
+        <name lang="en">Force to voltage</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="20" ry="0" rx="0" antialias="false" y="-10" x="-10" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length2="1.5" end2="none" x1="-10" x2="10" antialias="false" length1="1.5" y2="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="10"/>
+        <text text="F" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="0" x="-7"/>
+        <text text="U" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="8" x="1"/>
+    </description>
+</definition>

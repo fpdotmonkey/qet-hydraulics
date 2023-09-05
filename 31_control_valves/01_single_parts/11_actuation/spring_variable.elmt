@@ -1,0 +1,17 @@
+<definition width="20" hotspot_x="1" hotspot_y="5" type="element" link_type="simple" version="0.90" height="20">
+    <uuid uuid="{3984cae9-94ac-4baa-b48c-a74a00f335c9}"/>
+    <names>
+        <name lang="en">Variable Spring</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon x6="13" y6="1" x4="9" y4="1" y5="9" y7="6" closed="false" x1="3" x2="5" antialias="true" x7="15" y2="1" y3="9" style="line-style:normal;line-weight:normal;filling:none;color:black" x5="11" y1="6" x3="7"/>
+        <dynamic_text z="2" Halignment="AlignLeft" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{8559bead-af8e-4615-b360-f41f9f76c3b9}" rotation="0" text_from="ElementInfo" Valignment="AlignTop" text_width="-1" y="-9.95" x="-10" keep_visual_rotation="false" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line length2="1.5" end2="triangle" x1="8" x2="12" antialias="false" length1="1.5" y2="-3" end1="none" style="line-style:normal;line-weight:normal;filling:black;color:black" y1="13"/>
+    </description>
+</definition>

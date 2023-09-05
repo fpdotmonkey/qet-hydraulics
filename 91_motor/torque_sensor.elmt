@@ -1,0 +1,20 @@
+<definition type="element" hotspot_y="25" link_type="simple" height="40" version="0.90" hotspot_x="19" width="60">
+    <uuid uuid="{e0044689-2d49-4911-ab7e-37c08262137a}"/>
+    <names>
+        <name lang="en">Torque sensor</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle x="-5" diameter="30" y="-20" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
+        <line y1="-6" length1="1.5" end1="none" y2="-6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-5" x2="-12" antialias="false"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x4="10" x7="16" x6="12" y6="-17" antialias="false" closed="false" y7="-15" y4="7" x3="8" x5="10" x2="4" y5="-17" x1="2" y8="-13" y3="7" x8="18" y1="3" y2="5"/>
+        <line y1="-4" length1="1.5" end1="none" y2="-4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-5" x2="-12" antialias="false"/>
+        <line y1="-2" length1="1.5" end1="none" y2="-8" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-12" x2="-12" antialias="false"/>
+        <line y1="-6" length1="1.5" end1="none" y2="-6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="32" antialias="false"/>
+        <line y1="-4" length1="1.5" end1="none" y2="-4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="32" antialias="false"/>
+        <line y1="-8" length1="1.5" end1="none" y2="-2" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="32" x2="32" antialias="false"/>
+        <terminal x="-12" type="Generic" name="" y="-5" uuid="{ccbbb8ba-7971-4b5b-9e14-7072a5ecaed2}" orientation="w"/>
+        <terminal x="32" type="Generic" name="" y="-5" uuid="{ad09b381-cc31-4102-847f-fff1c94f6fc8}" orientation="e"/>
+    </description>
+</definition>

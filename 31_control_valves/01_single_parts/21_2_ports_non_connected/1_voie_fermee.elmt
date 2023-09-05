@@ -1,0 +1,27 @@
+<definition type="element" hotspot_y="15" link_type="simple" height="40" version="0.90" hotspot_x="20" width="40">
+    <uuid uuid="{b58ea671-338a-4017-9acf-0a9aed554371}"/>
+    <names>
+        <name lang="en">2 ports close</name>
+        <name lang="nl">2 gesloten</name>
+        <name lang="pl">2 drogi, zamknięty</name>
+        <name lang="es">2 puertos cerrados</name>
+        <name lang="it">2 porte chiuse</name>
+        <name lang="fr">2 orifices fermes</name>
+        <name lang="ar">فوهات مغلقة 2</name>
+        <name lang="cs">2 otvory zavřené</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="-31" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-12.95" uuid="{ee3d0158-2fd2-4f9d-bdd3-cf3459816527}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-15" ry="0" y="-10" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <line y1="-4.95" length1="1.5" end1="none" y2="-4.95" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-1.95" x2="2.05" antialias="false"/>
+        <line y1="15" length1="1.5" end1="none" y2="20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="-10" length1="1.5" end1="none" y2="-5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="15" length1="1.5" end1="none" y2="15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-2" x2="2" antialias="false"/>
+    </description>
+</definition>

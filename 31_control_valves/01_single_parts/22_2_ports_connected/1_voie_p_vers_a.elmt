@@ -1,0 +1,35 @@
+<definition type="element" hotspot_y="19" link_type="simple" height="50" version="0.90" hotspot_x="20" width="40">
+    <uuid uuid="{d3adfa22-244d-4132-8c2a-aa7277dff1bc}"/>
+    <names>
+        <name lang="en">2 ports open</name>
+        <name lang="nl">2 P -> A</name>
+        <name lang="pl">2 drogi, otwarty</name>
+        <name lang="es">2 puertos abiertos</name>
+        <name lang="it">2 porte aperte</name>
+        <name lang="fr">2 orifices passants</name>
+        <name lang="ar">فوهات موصولة 2</name>
+        <name lang="cs">2 otvory otevřené</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="-32" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-5.95" uuid="{75cd6b5e-8e48-4f9c-9ab8-6e06a3f1f2b1}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-15" ry="0" y="-10" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <line y1="24" length1="1.5" end1="none" y2="20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="-14" length1="1.5" end1="none" y2="-11" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="20" length1="1.5" end1="none" y2="-5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <polygon y1="-9.95" x4="0.05" y2="-4.95" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="-4.95" x1="0.05" y4="-9.95" x2="-1.95" x3="2.05" antialias="true"/>
+        <dynamic_text keep_visual_rotation="false" x="-10" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="-22" uuid="{b3973ccd-16fb-405d-aa97-7738285853ba}" Valignment="AlignTop" z="7">
+            <text>A</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="-9" font="Sans Serif,5,-1,5,0,0,0,0,0,0,normal" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="15" uuid="{b3973ccd-16fb-405d-aa97-7738285853ba}" Valignment="AlignTop" z="7">
+            <text>P</text>
+        </dynamic_text>
+        <terminal x="0" type="Generic" name="" y="24" uuid="{bbb73ed8-1c6b-45e4-bfcd-c13c12539936}" orientation="s"/>
+        <terminal x="0" type="Generic" name="" y="-14" uuid="{32177004-1312-41c1-aa2d-b1b0ebdbd89b}" orientation="n"/>
+    </description>
+</definition>

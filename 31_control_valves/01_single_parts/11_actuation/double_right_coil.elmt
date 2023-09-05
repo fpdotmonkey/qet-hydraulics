@@ -1,0 +1,19 @@
+<definition link_type="simple" type="element" hotspot_y="10" hotspot_x="30" height="30" width="40" version="0.90">
+    <uuid uuid="{8fa8ca96-286b-4269-ad2c-146d3c35e956}"/>
+    <names>
+        <name lang="en">Double right coil</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-43" y="-6.95" z="1" uuid="{39c23f42-f65f-4f09-86c1-595f9fdbfb8f}" Valignment="AlignTop" frame="false" text_from="ElementInfo" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect rx="0" ry="0" x="-25" antialias="false" y="0" height="10" width="30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="0" x2="2" length1="1.5" end2="none" x1="-8" antialias="false" end1="none" length2="1.5" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="10" x2="-22" length1="1.5" end2="none" x1="-12" antialias="true" end1="none" length2="1.5" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="15" x2="-4" length1="1.5" end2="triangle" x1="-18" antialias="true" end1="none" length2="1.5" y2="-5" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+    </description>
+</definition>

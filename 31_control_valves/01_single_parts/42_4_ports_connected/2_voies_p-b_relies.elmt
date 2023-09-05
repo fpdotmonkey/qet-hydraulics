@@ -1,0 +1,46 @@
+<definition type="element" hotspot_y="29" link_type="simple" height="50" version="0.90" hotspot_x="10" width="40">
+    <uuid uuid="{8110c579-b2b5-4648-9c71-81c69b2bc03f}"/>
+    <names>
+        <name lang="en">4 ports - P -> B connected</name>
+        <name lang="nl">4 P -> B</name>
+        <name lang="pl">4 drogi - P -> B połączone</name>
+        <name lang="it">4 porte - P -> B connesse</name>
+        <name lang="fr">4 voies - P -> B relies</name>
+        <name lang="ar">مسارات - P - > B  مُتّصلة 2</name>
+        <name lang="cs">4 cesty - P -> B spojené</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-5" ry="0" y="-20" style="line-style:normal;line-weight:normal;filling:white;color:black" height="30" rx="0" width="30" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" x="-10" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="-33" uuid="{4d943e1e-a736-4b28-bc17-633d6006f5a9}" Valignment="AlignTop" z="2">
+            <text>A</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="18" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="6" uuid="{7cbbf076-b7c7-486a-be76-ededa6e24298}" Valignment="AlignTop" z="3">
+            <text>T</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="-10" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="6" uuid="{38db9bc8-c201-4ef3-9f21-53a0763ed266}" Valignment="AlignTop" z="4">
+            <text>P</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="18" font="Sans Serif,5,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="UserText" Halignment="AlignLeft" rotation="0" y="-33" uuid="{ff29b244-9c45-4efc-952d-f7ff6cf77c51}" Valignment="AlignTop" z="5">
+            <text>B</text>
+        </dynamic_text>
+        <dynamic_text keep_visual_rotation="false" x="-20" font="Sans Serif,9,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-18.95" uuid="{b61b7495-f58c-4985-96ee-c7fd486c50ad}" Valignment="AlignTop" z="6">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="14" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="20" x2="20" antialias="false"/>
+        <line y1="-15" length1="1.5" end1="none" y2="-24" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="10" length1="1.5" end1="none" y2="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="-24" length1="1.5" end1="none" y2="-20" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="20" x2="20" antialias="false"/>
+        <line y1="5" length1="1.5" end1="none" y2="5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="18" x2="22" antialias="false"/>
+        <line y1="-15" length1="1.5" end1="none" y2="-15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-2" x2="2" antialias="false"/>
+        <line y1="10.1" length1="1.5" end1="none" y2="-16.9" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-0.15" x2="17.85" antialias="true"/>
+        <polygon y1="-19.9" x4="19.85" y2="-15.9" style="line-style:normal;line-weight:thin;filling:black;color:black" y3="-13.9" x1="19.85" y4="-19.9" x2="14.85" x3="17.85" antialias="true"/>
+        <terminal x="20" type="Generic" name="" y="14" uuid="{36eba5ea-4f3f-45e5-b4ac-8bfaf8887758}" orientation="s"/>
+        <terminal x="0" type="Generic" name="" y="14" uuid="{195cefc8-6b8f-4f1c-90c1-6429561c7f4a}" orientation="s"/>
+        <terminal x="20" type="Generic" name="" y="-24" uuid="{0c0454fe-2a2a-446e-8b60-39382bf10945}" orientation="n"/>
+        <terminal x="0" type="Generic" name="" y="-24" uuid="{709d44e1-ca9f-428c-aae1-ac6c3d4aa898}" orientation="n"/>
+    </description>
+</definition>

@@ -1,0 +1,34 @@
+<definition type="element" hotspot_y="28" link_type="simple" height="50" version="0.90" hotspot_x="38" width="60">
+    <uuid uuid="{5265a115-5890-4dab-9939-8b722e885eca}"/>
+    <names>
+        <name lang="en">Variable displacement hydraulic pump</name>
+        <name lang="nl">Pomp variabel</name>
+        <name lang="pl">Pompa o zmiennej wydajności i jednym kiekunku tłoczenia</name>
+        <name lang="es">Bomba de desplazamiento variable</name>
+        <name lang="it">Pompa a portata variabile</name>
+        <name lang="fr">Pompe debit variable</name>
+        <name lang="ar">مضخّة بتدفق مُتغيّر</name>
+        <name lang="cs">Vodní čerpadlo s proměnlivým výkonem</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team&#xd;
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" x="26" font="Sans Serif,8,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" text_from="ElementInfo" Halignment="AlignLeft" rotation="0" y="-27" uuid="{5eda953f-71ed-46a6-a0c4-a5d5603c9f4a}" Valignment="AlignTop" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle x="-15" diameter="30" y="-19" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="true"/>
+        <line y1="-3" length1="1.5" end1="none" y2="-3" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-30" x2="-15" antialias="false"/>
+        <line y1="-5" length1="1.5" end1="none" y2="-5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-30" x2="-15" antialias="false"/>
+        <line y1="-19.9336" length1="1.5" end1="none" y2="-17.7188" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="15.8281" x2="12.4531" antialias="false"/>
+        <line y1="-19.8281" length1="1.5" end1="none" y2="-16.3477" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="15.8281" x2="13.6133" antialias="false"/>
+        <line y1="11" length1="1.5" end1="none" y2="-19" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="-15" x2="15" antialias="false"/>
+        <polygon y1="-14" y2="-14" style="line-style:normal;line-weight:normal;filling:black;color:black" y3="-19" x1="-3" x2="3" x3="0" antialias="true"/>
+        <line y1="11" length1="1.5" end1="none" y2="15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <line y1="-19.4" length1="1.5" end1="none" y2="-23" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="0" x2="0" antialias="false"/>
+        <terminal x="-30" type="Generic" name="" y="-4" uuid="{40751c53-b1ce-4a5f-b216-fea96e9134c8}" orientation="w"/>
+        <terminal x="0" type="Generic" name="" y="-23" uuid="{4e25ec98-f2b3-49ec-a98c-5f16a62d4328}" orientation="n"/>
+        <terminal x="0" type="Generic" name="" y="15" uuid="{23148a55-f0b8-482f-95ae-b87073d87bbd}" orientation="s"/>
+    </description>
+</definition>
