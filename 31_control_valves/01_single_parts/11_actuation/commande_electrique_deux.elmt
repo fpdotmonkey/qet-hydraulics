@@ -1,21 +1,25 @@
-<definition version="0.5" hotspot_x="30" hotspot_y="5" width="40" height="20" link_type="simple" type="element">
-    <uuid uuid="{0dff143b-dfb1-49af-8a7b-179e0786a09b}"/>
+<definition hotspot_y="5" type="element" height="20" version="0.90" width="30" link_type="simple" hotspot_x="20">
+    <uuid uuid="{6ac07f14-6139-4504-824d-f02c67bdce04}"/>
     <names>
         <name lang="en">Two electric coil</name>
-        <name lang="es">Dos bobinas electricas</name>
         <name lang="nl">Spoel Elektrisch dubbel</name>
-        <name lang="fr">Electrique deux bobine</name>
-        <name lang="pl">Elektryczne (dwie cewki)</name>
+        <name lang="ar">تحكم كهربائي (ملفين)</name>
         <name lang="it">Doppio comando elettrico</name>
         <name lang="cs">Elektrické řízení (dvě cívky)</name>
-        <name lang="ar">تحكم كهربائي (ملفين)</name>
+        <name lang="pl">Elektryczne (dwie cewki)</name>
+        <name lang="es">Dos bobinas electricas</name>
+        <name lang="fr">Electrique deux bobine</name>
     </names>
+    <elementInformations/>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
     <description>
-        <input size="9" x="-43" rotate="true" tagg="label" y="4.55" text="_"/>
-        <rect antialias="false" width="30" style="line-style:normal;line-weight:normal;filling:none;color:black" height="10" x="-25" y="0"/>
-        <line antialias="false" x1="-8" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" y2="10" y1="0" end1="none" x2="2"/>
-        <line antialias="true" x1="-22.05" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" end2="none" y2="-0.05" y1="9.95" end1="none" x2="-12.05"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="1" frame="false" text_from="ElementInfo" Valignment="AlignTop" uuid="{86a7c766-10ef-46ed-bb5f-6c8b4c78b851}" y="-6.95" x="-43" text_width="-1" Halignment="AlignLeft" keep_visual_rotation="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect height="10" style="line-style:normal;line-weight:normal;filling:white;color:black" ry="0" width="20" y="0" rx="0" x="-15" antialias="false"/>
+        <line y1="0" x1="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="10" length1="1.5" x2="2" end2="none" antialias="false" length2="1.5"/>
+        <line y1="10" x1="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="0" length1="1.5" x2="-7" end2="none" antialias="true" length2="1.5"/>
     </description>
 </definition>

@@ -1,0 +1,16 @@
+<definition hotspot_y="15" type="element" height="30" version="0.90" width="40" link_type="simple" hotspot_x="19">
+    <uuid uuid="{c53a9ca8-2f5a-413e-aa0f-f79845b17935}"/>
+    <names>
+        <name lang="en">Throttle</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line y1="11" x1="-6" style="line-style:normal;line-weight:normal;filling:black;color:black" end1="none" y2="-11" length1="1.5" x2="6" end2="triangle" antialias="false" length2="1.5"/>
+        <line y1="0" x1="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="0" length1="1.5" x2="14" end2="none" antialias="false" length2="1.5"/>
+        <arc height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" start="225" width="30" y="-22" x="-15" antialias="true" angle="90"/>
+        <arc height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" start="45" width="30" y="2" x="-15" antialias="true" angle="90"/>
+        <terminal type="Generic" name="" orientation="w" uuid="{532662ef-1694-4526-b4f9-a5e7eda9a7da}" y="0" x="-14"/>
+        <terminal type="Generic" name="" orientation="e" uuid="{91f74d78-3354-4af1-af37-e81e99cc7245}" y="0" x="14"/>
+    </description>
+</definition>

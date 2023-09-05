@@ -1,17 +1,17 @@
-<definition width="20" hotspot_x="1" hotspot_y="4" type="element" link_type="simple" version="0.90" height="20">
-    <uuid uuid="{3d8d5ce1-e376-4d1e-8920-062b1320f8eb}"/>
+<definition hotspot_y="4" type="element" height="20" version="0.90" width="20" link_type="simple" hotspot_x="1">
+    <uuid uuid="{5c949e4a-5f7b-4581-949e-ea7b48d2f08c}"/>
     <names>
-        <name lang="en">Variable Spring</name>
+        <name lang="en">Variable Spring Mirror</name>
     </names>
     <elementInformations/>
     <informations>Author: The QElectroTech team&#xd;&#xd;
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
     <description>
-        <polygon x6="13" y6="9" x4="9" y4="9" y5="1" y7="4" closed="false" x1="3" x2="5" antialias="true" x7="15" y2="9" y3="1" style="line-style:normal;line-weight:normal;filling:none;color:black" x5="11" y1="4" x3="7"/>
-        <dynamic_text z="2" Halignment="AlignLeft" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{8559bead-af8e-4615-b360-f41f9f76c3b9}" rotation="0" text_from="ElementInfo" Valignment="AlignTop" text_width="-1" y="0.05" x="-10" keep_visual_rotation="false" frame="false">
+        <polygon y1="4" x1="3" y6="9" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="9" y2="9" y7="4" y3="1" y4="9" y5="1" x6="13" x7="15" x2="5" antialias="true" x5="11" x3="7"/>
+        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="2" frame="false" text_from="ElementInfo" Valignment="AlignTop" uuid="{8559bead-af8e-4615-b360-f41f9f76c3b9}" y="0.05" x="-10" text_width="-1" Halignment="AlignLeft" keep_visual_rotation="false">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <line length2="1.5" end2="triangle" x1="10" x2="6" antialias="false" length1="1.5" y2="14" end1="none" style="line-style:normal;line-weight:normal;filling:black;color:black" y1="-2"/>
+        <line y1="-2" x1="10" style="line-style:normal;line-weight:normal;filling:black;color:black" end1="none" y2="14" length1="1.5" x2="6" end2="triangle" antialias="false" length2="1.5"/>
     </description>
 </definition>

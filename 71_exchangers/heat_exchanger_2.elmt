@@ -1,0 +1,20 @@
+<definition hotspot_y="29" type="element" height="50" version="0.90" width="40" link_type="simple" hotspot_x="7">
+    <uuid uuid="{522c4f80-5ef1-4a51-859d-fd7c73e733d9}"/>
+    <names>
+        <name lang="en">Heat Exchanger 2</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:white;color:black" y="-20" x="-5" diameter="30" antialias="false"/>
+        <polygon y1="-11" x1="24" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="2" y2="-11" y3="-5" y4="1" y5="1" x2="2" antialias="false" x5="24" x3="15"/>
+        <line y1="-20" x1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="-24" length1="1.5" x2="10" end2="none" antialias="false" length2="1.5"/>
+        <line y1="-11" x1="24" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="-11" length1="1.5" x2="28" end2="none" antialias="false" length2="1.5"/>
+        <line y1="1" x1="24" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="1" length1="1.5" x2="28" end2="none" antialias="false" length2="1.5"/>
+        <line y1="10" x1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="14" length1="1.5" x2="10" end2="none" antialias="false" length2="1.5"/>
+        <terminal type="Generic" name="" orientation="e" uuid="{9ff2586a-b254-4473-9431-3a623088eef6}" y="-11" x="28"/>
+        <terminal type="Generic" name="" orientation="e" uuid="{3beca8fc-b577-4b2a-9ced-5165ad59ef3e}" y="1" x="28"/>
+        <terminal type="Generic" name="" orientation="s" uuid="{0667b9ef-50d1-44e0-9645-15fc16fa0847}" y="14" x="10"/>
+        <terminal type="Generic" name="" orientation="n" uuid="{f00a9169-a280-4cbc-bf24-10951268c94b}" y="-24" x="10"/>
+    </description>
+</definition>

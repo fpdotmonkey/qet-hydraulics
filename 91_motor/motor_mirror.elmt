@@ -1,0 +1,15 @@
+<definition hotspot_y="25" type="element" height="40" version="0.90" width="60" link_type="simple" hotspot_x="28">
+    <uuid uuid="{d07e994d-056a-4556-b599-53d3ed0d51a7}"/>
+    <names>
+        <name lang="en">Motor Mirror</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:white;color:black" y="-20" x="-5" diameter="30" antialias="false"/>
+        <line y1="-4" x1="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="-4" length1="1.5" x2="-20" end2="none" antialias="false" length2="1.5"/>
+        <line y1="-6" x1="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="-6" length1="1.5" x2="-20" end2="none" antialias="false" length2="1.5"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" y="0" x="5" text="M"/>
+        <terminal type="Generic" name="" orientation="w" uuid="{b21f8c0a-cf33-4be6-8d40-90b2c85fdbc6}" y="-5" x="-20"/>
+    </description>
+</definition>
