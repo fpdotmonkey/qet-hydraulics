@@ -1,0 +1,18 @@
+<definition version="0.90" width="50" hotspot_y="20" hotspot_x="22" height="40" type="element" link_type="simple">
+    <uuid uuid="{b9630903-3819-47a6-8f47-a156913df148}"/>
+    <names>
+        <name lang="en">Flow to PWM</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="30" rx="0" height="30" x="-15" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false" y="-15" ry="0"/>
+        <line y1="15" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" x1="15" end1="none" length1="1.5" y2="-15" antialias="false" x2="-15"/>
+        <text color="#000000" rotation="0" x="4" font="Sans Serif,7,-1,5,50,0,0,0,0,0" y="-4" text="Q"/>
+        <text color="#000000" rotation="0" x="-12" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="11" text="PWM"/>
+        <line y1="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" x1="15" end1="none" length1="1.5" y2="-10" antialias="false" x2="19"/>
+        <line y1="10" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" end2="none" x1="15" end1="none" length1="1.5" y2="10" antialias="false" x2="19"/>
+        <terminal x="19" orientation="e" type="Generic" name="" uuid="{e8cdba99-b45d-4f87-87f9-3a533b771625}" y="-10"/>
+        <terminal x="19" orientation="e" type="Generic" name="" uuid="{a61cfc97-1fa9-4774-92be-bbdc39a5e366}" y="10"/>
+    </description>
+</definition>
