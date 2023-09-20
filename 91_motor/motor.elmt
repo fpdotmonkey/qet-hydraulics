@@ -1,15 +1,17 @@
-<definition type="element" hotspot_y="26" link_type="simple" height="40" version="0.90" hotspot_x="11" width="60">
-    <uuid uuid="{76ff7c3c-b903-4210-890f-d83b86c6d80b}"/>
+<definition width="60" height="40" hotspot_y="25" type="element" hotspot_x="11" link_type="simple" version="0.90">
+    <uuid uuid="{33cdd9dc-c1fa-4307-acbd-a57ee0c2c751}"/>
     <names>
         <name lang="en">Motor</name>
     </names>
     <elementInformations/>
     <informations></informations>
     <description>
-        <circle x="-5" diameter="30" y="-21" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false"/>
-        <line y1="-4" length1="1.5" end1="none" y2="-4" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
-        <line y1="-6" length1="1.5" end1="none" y2="-6" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" x1="25" x2="40" antialias="false"/>
-        <text x="5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" y="-1" text="M" color="#000000"/>
-        <terminal x="40" type="Generic" name="" y="-5" uuid="{dd8d6f47-7db5-49ff-872b-35b564ce6515}" orientation="e"/>
+        <circle y="-21" antialias="false" x="-5" style="line-style:normal;line-weight:normal;filling:white;color:black" diameter="30"/>
+        <line antialias="false" y2="-4" end2="none" y1="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="25" x2="40" length1="1.5" length2="1.5" end1="none"/>
+        <line antialias="false" y2="-6" end2="none" y1="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="25" x2="40" length1="1.5" length2="1.5" end1="none"/>
+        <text y="-1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="5" rotation="0" text="M" color="#000000"/>
+        <terminal y="9" orientation="s" type="Generic" x="10" uuid="{47b35662-0bd1-42b3-b02c-ef5560a68d50}" name=""/>
+        <terminal y="-5" orientation="e" type="Generic" x="40" uuid="{dd8d6f47-7db5-49ff-872b-35b564ce6515}" name=""/>
+        <terminal y="-21" orientation="n" type="Generic" x="10" uuid="{53c12e6e-8e44-4440-955b-344f838d0a67}" name=""/>
     </description>
 </definition>

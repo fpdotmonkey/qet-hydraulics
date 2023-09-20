@@ -1,0 +1,31 @@
+<definition link_type="simple" width="110" type="element" height="90" version="0.90" hotspot_y="44" hotspot_x="55">
+    <uuid uuid="{d92b6f4e-69e2-43e6-989f-22234bb3c6bf}"/>
+    <names>
+        <name lang="en">PRV Anti-Cavitation</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x5="-4" closed="false" style="line-style:dashed;line-weight:normal;filling:none;color:black" y2="-21" x2="-9" y1="-15" x3="1" y5="-5" x1="-19" antialias="false" y3="-21" x4="1" y4="-5"/>
+        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" ry="0" width="30" y="-15" x="-34" height="30" antialias="false" rx="0"/>
+        <polygon x5="-38" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-5" x6="-36" x2="-44" y6="-5" y1="0" x3="-42" y5="3" y7="0" x1="-46" x7="-34" antialias="true" y3="3" x4="-40" y4="-5"/>
+        <line style="line-style:normal;line-weight:normal;filling:black;color:black" y2="-14" end1="none" x2="-26" y1="15" x1="-26" end2="triangle" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-30" end1="none" x2="-19" y1="-15" x1="-19" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-11" end1="none" x2="34" y1="-1" x1="44" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30" end1="none" x2="-19" y1="15" x1="-19" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-1" end1="none" x2="24" y1="-11" x1="34" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:white;color:black" y="-7.5" x="26.5" antialias="true" diameter="15"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-30" end1="none" x2="34" y1="-11" x1="34" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30" end1="none" x2="34" y1="8" x1="34" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-30" end1="none" x2="34" y1="-30" x1="-19" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="30" end1="none" x2="34" y1="30" x1="-19" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-39" end1="none" x2="0" y1="-30" x1="0" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="39" end1="none" x2="0" y1="30" x1="0" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <rect style="line-style:dashed;line-weight:normal;filling:none;color:black" ry="0" width="98" y="-35" x="-49" height="70" antialias="false" rx="0"/>
+        <dynamic_text Halignment="AlignLeft" text_from="UserText" Valignment="AlignTop" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="-60" x="-54" z="17" text_width="-1" keep_visual_rotation="false" rotation="0" uuid="{e115ff64-1f1f-41ea-a7bd-547cc5942f59}" frame="false">
+            <text>_</text>
+        </dynamic_text>
+        <terminal type="Generic" y="39" x="0" name="" orientation="s" uuid="{de53e60a-0f07-4b3c-9e63-1e1027bf599b}"/>
+        <terminal type="Generic" y="-39" x="0" name="" orientation="n" uuid="{de955e16-878f-47c9-b920-27b1f1227755}"/>
+    </description>
+</definition>

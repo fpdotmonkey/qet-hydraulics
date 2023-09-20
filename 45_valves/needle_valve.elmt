@@ -1,0 +1,30 @@
+<definition link_type="simple" width="60" type="element" height="60" version="0.90" hotspot_y="29" hotspot_x="15">
+    <uuid uuid="{50f0e789-7086-4832-93a8-6c9a91a03885}"/>
+    <names>
+        <name lang="en">Needle Valve</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <dynamic_text Halignment="AlignLeft" text_from="ElementInfo" Valignment="AlignTop" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-27" x="35" z="1" text_width="-1" keep_visual_rotation="false" rotation="0" uuid="{7c0d8113-d6f2-4d20-a8ac-523cfcf994be}" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="15" end1="none" x2="23" y1="15" x1="28" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:black;color:black" y2="-23" end1="none" x2="20" y1="-1" x1="8" end2="triangle" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="15" end1="none" x2="0" y1="15" x1="4" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-12" end1="none" x2="28" y1="-12" x1="0" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" width="30" start="225" y="-34" x="-1" height="20" angle="90" antialias="true"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="25" end1="none" x2="14" y1="15" x1="4" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <arc style="line-style:normal;line-weight:normal;filling:none;color:black" width="30" start="45" y="-10" x="-1" height="20" angle="90" antialias="true"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="5" end1="none" x2="14" y1="15" x1="4" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:white;color:black" y="7.56" x="7.56" antialias="true" diameter="14.88"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="14" end1="none" x2="0" y1="-12" x1="0" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="15" end1="none" x2="28" y1="-12" x1="28" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" end1="none" x2="0" y1="0" x1="-8" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" end1="none" x2="36" y1="0" x1="28" end2="none" antialias="false" length1="1.5" length2="1.5"/>
+        <rect style="line-style:dashed;line-weight:normal;filling:none;color:black" ry="0" width="36" y="-26" x="-4" height="54" antialias="false" rx="0"/>
+        <terminal type="Generic" y="0" x="-8" name="" orientation="w" uuid="{1d219aee-93b9-421c-a4fa-6b8938f78b0c}"/>
+        <terminal type="Generic" y="0" x="36" name="" orientation="e" uuid="{39d01677-1864-499c-85f3-8586d41dd261}"/>
+    </description>
+</definition>
