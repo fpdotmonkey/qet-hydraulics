@@ -1,18 +1,18 @@
-<definition link_type="simple" width="40" type="element" height="40" version="0.90" hotspot_y="20" hotspot_x="20">
-    <uuid uuid="{98dc2778-b4c2-424d-bf84-4628b89e5729}"/>
+<definition width="70" height="40" type="element" link_type="simple" hotspot_y="20" hotspot_x="35" version="0.90">
+    <uuid uuid="{6c42e98e-4fc5-4ec5-be02-9efac6348f60}"/>
     <names>
         <name lang="en">Manifold Port</name>
     </names>
     <elementInformations/>
     <informations></informations>
     <description>
-        <rect style="line-style:normal;line-weight:normal;filling:white;color:black" ry="0" width="36" y="-8" x="-18" height="14" antialias="false" rx="0"/>
-        <dynamic_text Halignment="AlignLeft" text_from="UserText" Valignment="AlignTop" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="-12" x="-20" z="2" text_width="-1" keep_visual_rotation="false" rotation="0" uuid="{e8be9ba5-dbf8-450c-a1bd-9259eee0cb4c}" frame="false">
+        <rect width="60" ry="0" x="-30" height="14" style="line-style:normal;line-weight:normal;filling:white;color:black" y="-8" antialias="false" rx="0"/>
+        <dynamic_text rotation="0" frame="false" keep_visual_rotation="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="2" x="-30" Valignment="AlignBottom" y="-12" uuid="{e8be9ba5-dbf8-450c-a1bd-9259eee0cb4c}" text_from="UserText" text_width="60" Halignment="AlignHCenter">
             <text>_</text>
         </dynamic_text>
-        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-12" end1="none" x2="0" y1="-8" x1="0" end2="none" antialias="false" length1="1.5" length2="1.5"/>
-        <line style="line-style:normal;line-weight:normal;filling:none;color:black" y2="10" end1="none" x2="0" y1="6" x1="0" end2="none" antialias="false" length1="1.5" length2="1.5"/>
-        <terminal type="Generic" y="-12" x="0" name="" orientation="n" uuid="{f87ab0fc-b18b-4a48-9914-a2ed82a50784}"/>
-        <terminal type="Generic" y="10" x="0" name="" orientation="s" uuid="{5e23db5e-5eae-45f0-8fb9-68c737d636f0}"/>
+        <line y2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" end2="none" y1="-8" length1="1.5" length2="1.5" x1="0" end1="none" antialias="false"/>
+        <line y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" end2="none" y1="6" length1="1.5" length2="1.5" x1="0" end1="none" antialias="false"/>
+        <terminal x="0" orientation="n" y="-12" uuid="{f87ab0fc-b18b-4a48-9914-a2ed82a50784}" name="" type="Generic"/>
+        <terminal x="0" orientation="s" y="10" uuid="{5e23db5e-5eae-45f0-8fb9-68c737d636f0}" name="" type="Generic"/>
     </description>
 </definition>

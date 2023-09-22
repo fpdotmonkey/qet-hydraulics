@@ -1,0 +1,27 @@
+<definition width="70" height="70" type="element" link_type="simple" hotspot_y="34" hotspot_x="33" version="0.90">
+    <uuid uuid="{cb6090f1-fe31-49e4-a85a-d86ed2bbc117}"/>
+    <names>
+        <name lang="en">Check Valve Filter</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon y2="4" y6="12" x7="-16" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-11" y1="2" y5="10" x1="-16" x4="-11" x5="-19" x6="-11" closed="false" antialias="true" x3="-19" y3="6" y4="8" y7="14"/>
+        <line y2="19" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="15" end2="none" y1="15" length1="1.5" length2="1.5" x1="15" end1="none" antialias="false"/>
+        <polygon y2="0" style="line-style:normal;line-weight:normal;filling:white;color:black" x2="30" y1="-15" y5="-15" x1="15" x4="0" x5="15" antialias="true" x3="15" y3="15" y4="0"/>
+        <line y2="-0.1667" style="line-style:dashed;line-weight:normal;filling:none;color:black" x2="1" end2="none" y1="-0.1667" length1="1.5" length2="1.5" x1="29" end1="none" antialias="false"/>
+        <line y2="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="15" end2="none" y1="-19" length1="1.5" length2="1.5" x1="15" end1="none" antialias="false"/>
+        <circle x="-22.5" style="line-style:normal;line-weight:normal;filling:white;color:black" y="-12.5" antialias="true" diameter="15"/>
+        <line y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-26" end2="none" y1="-16" length1="1.5" length2="1.5" x1="-15" end1="none" antialias="false"/>
+        <line y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-4" end2="none" y1="-16" length1="1.5" length2="1.5" x1="-15" end1="none" antialias="false"/>
+        <line y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-15" end2="none" y1="-16" length1="1.5" length2="1.5" x1="-15" end1="none" antialias="false"/>
+        <line y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="15" end2="none" y1="-20" length1="1.5" length2="1.5" x1="-15" end1="none" antialias="false"/>
+        <line y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-15" end2="none" y1="20" length1="1.5" length2="1.5" x1="15" end1="none" antialias="false"/>
+        <line y2="14" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-15" end2="none" y1="20" length1="1.5" length2="1.5" x1="-15" end1="none" antialias="false"/>
+        <line y2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" end2="none" y1="-20" length1="1.5" length2="1.5" x1="0" end1="none" antialias="false"/>
+        <line y2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" end2="none" y1="20" length1="1.5" length2="1.5" x1="0" end1="none" antialias="false"/>
+        <rect width="63" ry="0" x="-30" height="50" style="line-style:dashed;line-weight:normal;filling:none;color:black" y="-25" antialias="false" rx="0"/>
+        <terminal x="0" orientation="s" y="30" uuid="{bd00f686-3ca1-4275-a945-b207bfeb1a7d}" name="" type="Generic"/>
+        <terminal x="0" orientation="n" y="-30" uuid="{fe64c35b-cf80-4719-af63-3fe904d836b1}" name="" type="Generic"/>
+    </description>
+</definition>
